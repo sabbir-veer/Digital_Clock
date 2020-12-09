@@ -22,6 +22,7 @@ setInterval(function test(){
         'friday',
         'saturday'
     ];
+    
     let month = [
         'jan',
         'feb',
